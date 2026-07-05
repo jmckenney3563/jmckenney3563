@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @jmckenney3563
-- 👀 I’m interested in developing projects that utilize my skills and expand my boudaries as a developer
-- 🌱 I’m currently learning javascript, Python 3
-- 💞️ I’m looking to collaborate on volunteer projects, interactive webpages, etc.
-- 📫 How to reach me ... jmckenney0624@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: My father is Afro-Panamanian :-)
+# 👋 Hi, I'm @jmckenney3563
 
-<!---
-jmckenney3563/jmckenney3563 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```bash
+john-mckenney@zyfer-node:~$ systemctl status engineer-profile.service
+● engineer-profile.service - John McKenney Portfolio Daemon
+   Loaded: loaded (/etc/systemd/system/engineer-profile.service; enabled)
+   Active: active (running) since May 1, 1990
+   Status: "Optimizing infrastructure and proactive defense data pipelines."
+
+[+] Primary Core: Applied Technology
+[+] Active Subsystems: Hardware Triage, Automation Scripting, Threat Intelligence
+[+] Ongoing Deployments: ZYFER Framework (Zero-Trust Synthetic Forensics Engine)
